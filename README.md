@@ -1,1 +1,1 @@
-# Northwestern Spring 2024 BLE lab starter code
+# Northwestern CS433 Lab BLE starter code
